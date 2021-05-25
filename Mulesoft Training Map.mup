@@ -1,0 +1,528 @@
+{
+  "formatVersion": 3,
+  "id": "root",
+  "ideas": {
+    "1": {
+      "title": " MULESOFT DEVELOPMENT: TECHNICAL TRAINING",
+      "id": 1,
+      "attr": {
+        "position": [
+          -100,
+          -245,
+          1
+        ],
+        "style": {
+          "fontMultiplier": 1.75
+        }
+      },
+      "ideas": {
+        "1": {
+          "title": "INTRODUCING MULESOFT, ANYPOINT STUDIO & ANYPOINT PLATFORM",
+          "id": 8,
+          "ideas": {},
+          "attr": {
+            "position": [
+              182.48125000000005,
+              -138.08125,
+              15
+            ],
+            "style": {
+              "backgroundColor": "#FFFF99",
+              "width": 178,
+              "fontMultiplier": 1.25
+            }
+          }
+        },
+        "2": {
+          "title": "DEVELOPING APIs: Part 2",
+          "id": 21,
+          "attr": {
+            "style": {
+              "width": 157,
+              "backgroundColor": "#99CC00",
+              "fontMultiplier": 1.25
+            },
+            "position": [
+              177,
+              139.61312499999997,
+              8
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "Flow Reference",
+              "id": 22,
+              "attr": {
+                "position": [
+                  207.03000000000003,
+                  -115.89687499999997,
+                  1
+                ],
+                "style": {
+                  "backgroundColor": "#33CCCC"
+                }
+              }
+            },
+            "2": {
+              "title": "Attributes & Variables",
+              "id": 23,
+              "attr": {
+                "style": {
+                  "backgroundColor": "#33CCCC"
+                }
+              },
+              "ideas": {
+                "1": {
+                  "title": "Scope of Attributes, Variables & Payload",
+                  "id": 27,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#FF99CC"
+                    }
+                  }
+                }
+              }
+            },
+            "3": {
+              "title": "Transform Message",
+              "id": 24,
+              "attr": {
+                "style": {
+                  "backgroundColor": "#33CCCC"
+                }
+              }
+            },
+            "4": {
+              "title": "Logger",
+              "id": 25,
+              "attr": {
+                "style": {
+                  "backgroundColor": "#33CCCC"
+                }
+              }
+            },
+            "5": {
+              "title": "Configuration Properties",
+              "id": 26,
+              "attr": {
+                "style": {
+                  "width": 84,
+                  "backgroundColor": "#33CCCC"
+                }
+              }
+            }
+          }
+        },
+        "3": {
+          "title": "DATAWEAVE",
+          "id": 30,
+          "attr": {
+            "style": {
+              "backgroundColor": "#FF0000",
+              "text": {
+                "color": "#FFFFFF"
+              },
+              "width": 126,
+              "fontMultiplier": 1.5
+            }
+          }
+        },
+        "4": {
+          "title": "DEVELOPING APIs: Part 4",
+          "id": 38,
+          "attr": {
+            "style": {
+              "width": 157,
+              "backgroundColor": "#99CC00",
+              "fontMultiplier": 1.25
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Connecting to:",
+              "id": 39,
+              "ideas": {
+                "1": {
+                  "title": "Databases",
+                  "id": 41,
+                  "ideas": {},
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#339966",
+                      "text": {
+                        "color": "#FFFFFF"
+                      }
+                    }
+                  }
+                },
+                "2": {
+                  "title": "AWS",
+                  "id": 43,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#339966",
+                      "text": {
+                        "color": "#FFFFFF"
+                      }
+                    }
+                  }
+                },
+                "3": {
+                  "title": "Salesforce",
+                  "id": 44,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#339966",
+                      "text": {
+                        "color": "#FFFFFF"
+                      }
+                    }
+                  }
+                },
+                "4": {
+                  "title": "FTS/SFTS",
+                  "id": 45,
+                  "attr": {
+                    "style": {
+                      "backgroundColor": "#339966",
+                      "text": {
+                        "color": "#FFFFFF"
+                      }
+                    }
+                  }
+                }
+              },
+              "attr": {
+                "style": {
+                  "backgroundColor": "#008080",
+                  "text": {
+                    "color": "#FFFFFF"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "5": {
+          "title": "DEVELOPING APIs: Part 5",
+          "id": 56,
+          "attr": {
+            "style": {
+              "width": 156,
+              "backgroundColor": "#99CC00",
+              "fontMultiplier": 1.25
+            },
+            "position": [
+              130,
+              556.609375,
+              10
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "For-Each",
+              "id": 58,
+              "ideas": {},
+              "attr": {
+                "style": {
+                  "backgroundColor": "#666699",
+                  "text": {
+                    "color": "#FFFFFF"
+                  }
+                }
+              }
+            },
+            "2": {
+              "title": "Batch Process",
+              "id": 60,
+              "attr": {
+                "style": {
+                  "backgroundColor": "#666699",
+                  "text": {
+                    "color": "#FFFFFF"
+                  }
+                }
+              }
+            },
+            "3": {
+              "title": "E-mail",
+              "id": 61,
+              "attr": {
+                "style": {
+                  "backgroundColor": "#666699",
+                  "text": {
+                    "color": "#FFFFFF"
+                  }
+                }
+              }
+            },
+            "4": {
+              "title": "Scheduler",
+              "id": 62,
+              "attr": {
+                "style": {
+                  "backgroundColor": "#666699",
+                  "text": {
+                    "color": "#FFFFFF"
+                  }
+                }
+              }
+            }
+          }
+        },
+        "-1": {
+          "title": "DESIGNING APIs: RAML",
+          "id": 11,
+          "attr": {
+            "position": [
+              273.85187499999995,
+              8.90625,
+              7
+            ],
+            "style": {
+              "backgroundColor": "#FF9900",
+              "fontMultiplier": 1.25
+            }
+          }
+        },
+        "-11": {
+          "title": "DEVELOPING APIs: Part 1",
+          "id": 14,
+          "attr": {
+            "style": {
+              "width": 161,
+              "backgroundColor": "#99CC00",
+              "fontMultiplier": 1.25
+            },
+            "position": [
+              264,
+              115.671875,
+              14
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "HTTP Listener",
+              "id": 17,
+              "attr": {
+                "style": {
+                  "backgroundColor": "#FFCC99"
+                }
+              }
+            },
+            "2": {
+              "title": "Set Payload",
+              "id": 19,
+              "attr": {
+                "style": {
+                  "backgroundColor": "#FFCC99"
+                }
+              }
+            },
+            "3": {
+              "title": "RESTful Services",
+              "id": 20,
+              "attr": {
+                "style": {
+                  "backgroundColor": "#FFCC99"
+                }
+              }
+            }
+          }
+        },
+        "-12": {
+          "title": "DEVELOPING APIs: Part 3",
+          "id": 31,
+          "attr": {
+            "style": {
+              "width": 155,
+              "backgroundColor": "#99CC00",
+              "fontMultiplier": 1.25
+            },
+            "position": [
+              179,
+              319.53125,
+              13
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "HTTP Request",
+              "id": 32,
+              "ideas": {},
+              "attr": {
+                "style": {
+                  "backgroundColor": "#CCFFFF"
+                }
+              }
+            },
+            "2": {
+              "title": "Choice Router",
+              "id": 35,
+              "attr": {
+                "style": {
+                  "backgroundColor": "#CCFFFF"
+                }
+              }
+            },
+            "3": {
+              "title": "Scatter-Gather",
+              "id": 36,
+              "attr": {
+                "style": {
+                  "backgroundColor": "#CCFFFF"
+                }
+              }
+            },
+            "4": {
+              "title": "Validation",
+              "id": 37,
+              "attr": {
+                "style": {
+                  "backgroundColor": "#CCFFFF"
+                }
+              }
+            }
+          }
+        },
+        "-13": {
+          "title": "ERROR-HANDLING",
+          "id": 47,
+          "attr": {
+            "style": {
+              "backgroundColor": "#0000FF",
+              "text": {
+                "color": "#FFFFFF"
+              },
+              "width": 99,
+              "fontMultiplier": 1.25
+            },
+            "position": [
+              161,
+              559.53125,
+              12
+            ]
+          },
+          "ideas": {
+            "1": {
+              "title": "On Error-Continue",
+              "id": 51,
+              "attr": {
+                "style": {
+                  "backgroundColor": "#FFCC00"
+                }
+              }
+            },
+            "2": {
+              "title": "On Error-Propagate",
+              "id": 52,
+              "attr": {
+                "style": {
+                  "backgroundColor": "#FFCC00"
+                }
+              }
+            },
+            "3": {
+              "title": "Default Error Handler",
+              "id": 53,
+              "attr": {
+                "style": {
+                  "backgroundColor": "#FFCC00"
+                }
+              }
+            },
+            "4": {
+              "title": "Global Error Handler",
+              "id": 54,
+              "attr": {
+                "style": {
+                  "backgroundColor": "#FFCC00"
+                }
+              }
+            },
+            "5": {
+              "title": "Raise Error",
+              "id": 55,
+              "attr": {
+                "style": {
+                  "backgroundColor": "#FFCC00"
+                }
+              }
+            }
+          }
+        },
+        "-0.5": {
+          "title": "DEPLOYING APIs",
+          "id": 64,
+          "attr": {
+            "position": [
+              279,
+              -147.234375,
+              11
+            ],
+            "style": {
+              "backgroundColor": "#800000",
+              "text": {
+                "color": "#FFFFFF"
+              },
+              "fontMultiplier": 1.25
+            }
+          },
+          "ideas": {
+            "1": {
+              "title": "Managing APIs",
+              "id": 66,
+              "ideas": {},
+              "attr": {
+                "style": {
+                  "backgroundColor": "#3366FF",
+                  "text": {
+                    "color": "#FFFFFF"
+                  }
+                }
+              }
+            },
+            "2": {
+              "title": "Cloudhub",
+              "id": 68,
+              "attr": {
+                "style": {
+                  "backgroundColor": "#3366FF",
+                  "text": {
+                    "color": "#FFFFFF"
+                  }
+                }
+              }
+            },
+            "3": {
+              "title": "API Auto Discovery",
+              "id": 69,
+              "attr": {
+                "style": {
+                  "backgroundColor": "#3366FF",
+                  "text": {
+                    "color": "#FFFFFF"
+                  }
+                }
+              }
+            },
+            "4": {
+              "title": "Proxy APIs",
+              "id": 70,
+              "attr": {
+                "style": {
+                  "backgroundColor": "#3366FF",
+                  "text": {
+                    "color": "#FFFFFF"
+                  }
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "title": " MULESOFT DEVELOPMENT: TECHNICAL TRAINING",
+  "links": []
+}
